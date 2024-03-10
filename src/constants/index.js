@@ -245,7 +245,7 @@ export const benefits = [
   {
     id: "0",
     title: "Project Expo ",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    text: "Celebrate ingenuity at our Project Expo, where innovation, creativity, and vision come together to showcase the future of technology.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -253,7 +253,7 @@ export const benefits = [
   {
     id: "1",
     title: "PPT (Paper Presentation)",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    text: "Creating a paper presentation PowerPoint (PPT) involves structuring your content effectively and designing visually appealing slides to convey your message",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -262,7 +262,7 @@ export const benefits = [
   {
     id: "2",
     title: "Technical Quiz ",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    text: "Technical quiz can be a fun and engaging way to test knowledge on specific topics or subjects.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -270,7 +270,7 @@ export const benefits = [
   {
     id: "3",
     title: "Problem Solving ",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    text: "Problem-solving is a crucial skill that involves identifying, analyzing, and resolving issues or challenges in a systematic and effective manner",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -279,7 +279,7 @@ export const benefits = [
   {
     id: "4",
     title: "Tech Talk ",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    text: "Technical talks cover a wide range of technical concepts and ideas: From how a technology or process works, to how to perform a specific task, to lessons learned in a Subjects and Project.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -287,7 +287,7 @@ export const benefits = [
   {
     id: "5",
     title: "Circuit Debugging",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    text: "Circuit debugging refers to the process of identifying and resolving issues or errors in electronic circuits.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
