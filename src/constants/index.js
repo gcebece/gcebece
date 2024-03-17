@@ -128,21 +128,13 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "We aspire to impart to our students the value of communication and realization that they can make a difference to train the students to be employed in multi-disciplinary areas including allied academic disciplines.";
 
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
-    text: collabText,
-  },
-  {
-    id: "1",
-    title: "Smart Automation",
-  },
-  {
-    id: "2",
-    title: "Top-notch Security",
+    title: "Why ECE ",
+    text: "Department has well qualified, experienced and dedicated faculty members aiming at educating and training the students. Our faculty members explore research in various fields such as VLSI, Robotics, Communication and signal processing, Embedded systems, Microwave Engineering, DSP, Networking  and find creative ways to share and impart knowledge to the students.",
   },
 ];
 
@@ -151,7 +143,7 @@ export const collabApps = [
     id: "0",
     title: "Figma",
     icon: figma,
-    width: 26,
+    width: 60,
     height: 36,
   },
   {
@@ -244,7 +236,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Project Expo ",
+    title: "Spark Summit (paper presentation)    ",
     text: "Celebrate ingenuity at our Project Expo, where innovation, creativity, and vision come together to showcase the future of technology.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
@@ -252,7 +244,7 @@ export const benefits = [
   },
   {
     id: "1",
-    title: "PPT (Paper Presentation)",
+    title: "Paper Palooza (Paper presentation)",
     text: "Creating a paper presentation PowerPoint (PPT) involves structuring your content effectively and designing visually appealing slides to convey your message",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
@@ -261,7 +253,7 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Technical Quiz ",
+    title: "Mind Mastery Challenge (Quiz)    ",
     text: "Technical quiz can be a fun and engaging way to test knowledge on specific topics or subjects.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
@@ -269,8 +261,8 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "Problem Solving ",
-    text: "Problem-solving is a crucial skill that involves identifying, analyzing, and resolving issues or challenges in a systematic and effective manner",
+    title: "Word Craft (Content Writing )",
+    text: "Content Writing  is a crucial skill that involves identifying, analyzing, and resolving issues or challenges in a systematic and effective manner",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -278,7 +270,7 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Tech Talk ",
+    title: " Tech talk Expo  ",
     text: "Technical talks cover a wide range of technical concepts and ideas: From how a technology or process works, to how to perform a specific task, to lessons learned in a Subjects and Project.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
@@ -286,7 +278,7 @@ export const benefits = [
   },
   {
     id: "5",
-    title: "Circuit Debugging",
+    title: " Circuit Circus (circuit debugging )",
     text: "Circuit debugging refers to the process of identifying and resolving issues or errors in electronic circuits.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,

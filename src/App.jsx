@@ -20,8 +20,8 @@ const App = () => {
         <Collaboration />
         {/* <Services />
         <Pricing />
-        <Roadmap />
-        <Footer /> */}
+        <Roadmap /> */}
+        <Footer />
       </div>
 
       <ButtonGradient />
