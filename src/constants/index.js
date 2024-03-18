@@ -40,17 +40,17 @@ export const navigation = [
   {
     id: "0",
     title: "Home",
-    url: "#features",
+    url: "",
   },
   {
     id: "1",
-    title: "About",
-    url: "#pricing",
+    title: "Events",
+    url: "#features",
   },
   {
     id: "2",
-    title: "Events",
-    url: "#how-to-use",
+    title: "About",
+    url: "#collabration",
   },
   {
     id: "3",
@@ -236,16 +236,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Spark Summit (paper presentation)    ",
-    text: "Celebrate ingenuity at our Project Expo, where innovation, creativity, and vision come together to showcase the future of technology.",
+    title: " Paper Palooz(paper presentation)    ",
+    text: "Creating a paper presentation PowerPoint (PPT) involves structuring your content effectively and designing visually appealing slides to convey your message",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Paper Palooza (Paper presentation)",
-    text: "Creating a paper presentation PowerPoint (PPT) involves structuring your content effectively and designing visually appealing slides to convey your message",
+    title: " Spark Summit  (Project presentation)",
+    text: "Celebrate ingenuity at our Project Expo, where innovation, creativity, and vision come together to showcase the future of technology.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -288,12 +288,6 @@ export const benefits = [
 
 export const socials = [
   {
-    id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
-  },
-  {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
@@ -303,14 +297,9 @@ export const socials = [
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/reviva_24_?igsh=YnVzbzBjMThramxr",
   },
-  {
-    id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
-  },
+
   {
     id: "4",
     title: "Facebook",

@@ -23,10 +23,10 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-            Government College of Engineering&nbsp; - Bargur&nbsp; {` `} <br />
+            Government College of Engineering&nbsp; - Bargur&nbsp; <br />
             <br />
             <span className="inline-block relative">
-              Department of ECE{" "}
+              Department of ECE
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -42,6 +42,10 @@ const Hero = () => {
           </p>
           <Button href="#" white>
             Its Reviva 2k24
+          </Button>
+          <br /> <br />
+          <Button href="https://forms.gle/bnE4vRf4ww81DWtV7">
+            Register Here
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
