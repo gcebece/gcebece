@@ -57,18 +57,6 @@ export const navigation = [
     title: "Roadmap",
     url: "#roadmap",
   },
-  {
-    id: "4",
-    title: "Accommodation",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Contact Us",
-    url: "#login",
-    onlyMobile: true,
-  },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
@@ -236,7 +224,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: " Paper Palooz(paper presentation)    ",
+    title: " Paper Palooza(paper presentation)    ",
     text: "Creating a paper presentation PowerPoint (PPT) involves structuring your content effectively and designing visually appealing slides to convey your message",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
@@ -291,7 +279,7 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "",
   },
   {
     id: "2",
