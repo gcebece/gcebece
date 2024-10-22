@@ -69,7 +69,7 @@ const Header = () => {
 
         <Button
           className="hidden lg:flex"
-          href="https://forms.gle/bnE4vRf4ww81DWtV7"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSejsleekjFujHdzPlUpGPcuouA4h_kiTUD1h1YIHFnraGc1wA/viewform"
         >
           Register Here
         </Button>

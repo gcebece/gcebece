@@ -22,13 +22,26 @@ const Footer = () => {
       <br /> <br />
       <div className="container flex sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
         <p className="caption text-n-4 lg:block">
-          © {new Date().getFullYear()}. All rights reserved Dept of ECE . Made
-          with by ❤️ Kumaravel ECE Final Year
-        </p>{" "}
+          © {new Date().getFullYear()}. All rights reserved Dept of ECE. Made
+          with ❤️
+          <a
+            href="https://www.instagram.com/__.kumaravel_"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Kumaravel
+          </a>{" "}
+          ECE
+        </p>
+
         <br />
         <p>
-          For Any Enquiry Contact <br /> Mobile No : 6379390196 , <br />
-          Mail ID: kumaravelprogrammer@gmail.com
+          For Any Enquiry Contact <br /> Sakthivel R <br /> Mobile: 8428321264
+          <br />
+          <p>
+            Sri leka R <br></br>
+            Mobile: 9791223074
+          </p>
         </p>
         <ul className="flex gap-5 flex-wrap">
           {socials.map((item) => (

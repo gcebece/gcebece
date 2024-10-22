@@ -27,7 +27,7 @@ const Collaboration = () => {
             ))}
           </ul>
 
-          <Button>Reviva 2k24 ECE </Button>
+          <Button>Reviva 2k25 ECE </Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">

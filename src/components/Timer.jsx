@@ -84,7 +84,7 @@ const CounterStyled = styled.div`
 `;
 
 // Timing
-const targetDate = new Date("March 26, 2024 00:00:00").getTime();
+const targetDate = new Date("November 7, 2024 00:00:00").getTime();
 
 const generateTimeDisplay = () => {
   const rightJustNow = new Date().getTime();
@@ -120,7 +120,7 @@ const Timer = () => {
     <AppStyled>
       <ContainerStyled>
         <DateStyled2>
-          <h1>Reviva 2k24 🔥</h1>
+          <h1>Reviva 2k25 🔥</h1>
         </DateStyled2>
         <DateStyled>
           <h1>🎉 Coming Soon 🎉</h1>

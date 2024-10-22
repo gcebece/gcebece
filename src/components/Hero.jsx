@@ -41,10 +41,10 @@ const Hero = () => {
             studies of intellectual life
           </p>
           <Button href="#" white>
-            Its Reviva 2k24
+            Its Reviva 2k25
           </Button>
           <br /> <br />
-          <Button href="https://forms.gle/bnE4vRf4ww81DWtV7">
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSejsleekjFujHdzPlUpGPcuouA4h_kiTUD1h1YIHFnraGc1wA/viewform">
             Register Here
           </Button>
         </div>
